@@ -47,7 +47,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Classic Indian Thali</Card.Title>
-              <Card.Text>₹110</Card.Text>
+              <Card.Text>₹246</Card.Text>
             </Card.Body>
           </Card>
         </div>
@@ -61,7 +61,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Cheese Pizza</Card.Title>
-              <Card.Text>₹275</Card.Text>
+              <Card.Text>₹299</Card.Text>
             </Card.Body>
           </Card>
         </div>
@@ -75,7 +75,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Scizzlers</Card.Title>
-              <Card.Text>₹339</Card.Text>
+              <Card.Text>₹329</Card.Text>
             </Card.Body>
           </Card>
         </div>
@@ -89,7 +89,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Hakka Noodles</Card.Title>
-              <Card.Text>₹220</Card.Text>
+              <Card.Text>₹89</Card.Text>
             </Card.Body>
           </Card>
         </div>
@@ -103,7 +103,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Burger</Card.Title>
-              <Card.Text>₹399</Card.Text>
+              <Card.Text>₹249</Card.Text>
             </Card.Body>
           </Card>
         </div>
@@ -117,7 +117,7 @@ const Course = () => {
             />
             <Card.Body className="text-center">
               <Card.Title>Biryani</Card.Title>
-              <Card.Text>₹275</Card.Text>
+              <Card.Text>₹150</Card.Text>
             </Card.Body>
           </Card>
         </div>
